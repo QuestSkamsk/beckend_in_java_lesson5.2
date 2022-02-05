@@ -1,7 +1,6 @@
 package com.geekbrains.db.dao;
 
 import java.util.List;
-
 import com.geekbrains.db.model.Categories;
 import com.geekbrains.db.model.CategoriesExample;
 import org.apache.ibatis.annotations.Param;

@@ -25,5 +25,4 @@ public class ConfigUtils {
         prop.load(configFile);
         return prop.getProperty("URL");
     }
-
 }*/

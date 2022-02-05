@@ -95,6 +95,4 @@ public class DbUtils {
     public static void deleteProductByPrimaryKey() {
         getProductsMapper().deleteByPrimaryKey(productId);
     }
-
-
 }

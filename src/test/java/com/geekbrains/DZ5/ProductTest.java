@@ -10,6 +10,7 @@ import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import retrofit2.Retrofit;
 import java.io.IOException;
+
 public class ProductTest {
 
     static Retrofit client;
